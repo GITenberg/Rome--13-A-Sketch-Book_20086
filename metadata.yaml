@@ -1,0 +1,29 @@
+_repo: Rome--13-A-Sketch-Book_20086
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Richards, Fred
+    alias: Richards, Frederick Charles
+    birthdate: 1878
+    deathdate: 1932
+    gutenberg_agent_id: '9073'
+    url: http://www.gutenberg.org/2009/agents/9073
+description: ''
+gutenberg_issued: '2006-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20086'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Architecture, Roman -- Italy'
+- !lcsh 'Architecture -- Rome'
+- !lcc 'DG'
+- !lcsh 'Architecture -- Sketch-books'
+title: 'Rome: A Sketch-Book'
+url: http://www.gutenberg.org/ebooks/20086
